@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "2nd SIDE",
+  "base_artist": "神谷奈緒 (CV: 松井恵理子)",
+  "createdAt": "2026-03-01T01:24:36.540376Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "2nd SIDE",
+      "artist": "神谷奈緒 (松井恵理子)",
+      "has_synced": false,
+      "path": "select/pl_01_2nd_SIDE_神谷奈緒_(松井恵理子).txt"
+    }
+  ]
+}
